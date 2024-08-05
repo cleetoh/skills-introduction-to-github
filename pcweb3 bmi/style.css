@@ -1,0 +1,21 @@
+body {
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    padding-top: 30px;
+    margin: 0;
+}
+.container {
+    background: rgba(63, 153, 228, 0.616);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(189, 76, 255);
+    text-align: center;
+}
+.overweight {
+    font-size: 10em;
+    color: rgb(58, 0, 120);
+}
